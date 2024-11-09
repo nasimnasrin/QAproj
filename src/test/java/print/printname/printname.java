@@ -7,6 +7,7 @@ public class printname {
 		// TODO Auto-generated method stub
 		System.out.println("My name is Maksuda");
 		System.out.println("My name is Rupali");
+		System.out.println("My name is Eshita");
 	}
 
 }
